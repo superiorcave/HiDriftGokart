@@ -15,3 +15,12 @@ The engine is probably the most expensive part of our project but it is also the
 ![Screenshot 2025-10-30 at 1.09.24 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc5NywicHVyIjoiYmxvYl9pZCJ9fQ==--1bc680fd3139dc97dbb479937aa64d4ec6fc8a46/Screenshot%202025-10-30%20at%201.09.24%E2%80%AFPM.png)
   
 
+## 11/1/2025 - Found a basic build/Hardware Structure for our Gokart  
+
+We plan to use the following Hand Truck in order to create the gokart. The following video shows a basic idea of what we want to make with it. https://www.youtube.com/watch?v=J6HkLMQwlS8
+
+We will still need to freehand the welding and make more space to fit a bigger engine but it's a pretty good alternative. We still need to find steering gear but this is a great start towards our gokart.
+
+![Screenshot 2025-11-01 at 2.12.53 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzUzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--0594709c0afe96cbd94b8935675cf6eb6f6c482a/Screenshot%202025-11-01%20at%202.12.53%E2%80%AFPM.png)
+  
+
