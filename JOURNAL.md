@@ -24,3 +24,27 @@ We will still need to freehand the welding and make more space to fit a bigger e
 ![Screenshot 2025-11-01 at 2.12.53 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzUzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--0594709c0afe96cbd94b8935675cf6eb6f6c482a/Screenshot%202025-11-01%20at%202.12.53%E2%80%AFPM.png)
   
 
+## 11/3/2025 - Finalized Parts List  
+
+We found several parts online and created a cohesive shopping list.
+
+Centrifugal Clutch: https://www.amazon.com/Centrifugal-Clutch-predator-Lawnmower-2-6-5HP/dp/B0BGXYG1Y2?crid=CAIZOB06WYT9&dib=eyJ2IjoiMSJ9.8YRFcmpWs7Y7ducCBQDHAV7FuunDDAitQB1RE-1mp5H8rGHCOk5osyWzPGVcm0bwtejIqhddbSNwUs6HxwT5EK4-ZIRZmMp3w2kkCz8pXIC_A1FPJheBTK_Qp0EXUkaqanACu4MOVAtmo_3aaqMExdosS4vZ6JCzZn9sN77-THxpxDVqwmuf4cBfNozYxB34U4L2N7WIUxqEwscS9mgNUn-NOmwImrD4bqJUxZXXCxzWRsUZbNCDhjHXD_UPbn3thE8JzfGh4973wItX29UgP604sgDjFccM-mxDvu-ySkk.OU9MyOMaU75JD_AQ-KrIyM0oGBRKXC97ABmiRsBqL3Y&dib_tag=se&keywords=go%2Bkart%2Bclutch%2Band%2Bchain&qid=1750194555&sprefix=go%2Bkart%2Bclutch%2Band%2Bch%2Caps%2C146&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=sl1&tag=mechmaster08-20&linkId=3ca977c17d77393a76ed7efbe0932027&language=en_US&ref_=as_li_ss_tl
+
+![Screenshot 2025-11-03 at 1.28.26 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODE1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--f26b8808864aa4b52fbda7d54746a3121fd66687/Screenshot%202025-11-03%20at%201.28.26%E2%80%AFPM.png)
+
+
+Gear Break Drum: https://www.amazon.com/GREHUA-Sprocket-Adapter-Predator-Buggies/dp/B09Y82MJWZ?crid=2WM7P2X70TRYW&dib=eyJ2IjoiMSJ9._wrX3mtD_5uFJW5Bt3xGvJLPvIATUTLwgYe3Zsk7_UezlEHlIAg7c9ZNVSmpj9LPXYzH97L0itP1Xt1x430ksNqDvQAEQEqCTZuCnDGLV9AqKSEjdK-kiVPcto4FNin95woRC-gOihvW8bAUYQlrkAZJ27RvyCweaFBFJq7d6A6FWeSv5eCvvl3yO52utO7FPUjoI1VE5T8Dsc6Rx_Bjz4WrLzsIemwQXE5TytUvUKUmOOtm4on2jXEpr0tcFzlk4V_tsjav9QDQ5S5WrUG7PXjptO2U2q-A4BQtiA5YJ7I.Nqhw6BjQjKQkGhH1ZXo0EmB_cl80nE52ijg9lSmuobM&dib_tag=se&keywords=go+kart+brake+and+drum&qid=1750194494&sprefix=go+kart+brake+and+drum,aps,145&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=sl1&tag=mechmaster08-20&linkId=af38b90af9b8cf49a787e422c580c3b2&language=en_US&ref_=as_li_ss_tl
+
+![Screenshot 2025-11-03 at 1.29.37 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODE1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--dca2a5da1719f2372af66ddc910d62671394b053/Screenshot%202025-11-03%20at%201.29.37%E2%80%AFPM.png)
+
+
+Steering Spindle: https://www.amazon.com/QASKEHKT-Steering-Spindle-Bracket-Yerf-Dog/dp/B0CGD83BTN?pd_rd_w=s0Jgq&content-id=amzn1.sym.ea1d9533-fbb7-4608-bb6f-bfdceb6f6336&pf_rd_p=ea1d9533-fbb7-4608-bb6f-bfdceb6f6336&pf_rd_r=TJ0VDPC31CFSK3MM04SH&pd_rd_wg=XJHih&pd_rd_r=f0e2d5ef-a2bb-496a-ac11-dee96cdf81c3&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1&linkCode=sl1&tag=mechmaster08-20&linkId=4d0b6fce84b24fe02aa2b1ffbac986b4&language=en_US&ref_=as_li_ss_tl
+
+![Screenshot 2025-11-03 at 1.30.07 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODE1NywicHVyIjoiYmxvYl9pZCJ9fQ==--b1ffc28b55bd4530d06d46c8d907c820b00aefe4/Screenshot%202025-11-03%20at%201.30.07%E2%80%AFPM.png)
+
+
+Rear Axle Kit: https://www.amazon.com/LIYUANJUN-Complete-Sprocket-41Teeth-Diameter/dp/B0CG8GG2FK/ref=sr_1_4?crid=29BDMSXW5OMBN&dib=eyJ2IjoiMSJ9.zuEVWZWkXp4nzIP7Kjy_BfH6JePiBr5BuNn7TawDUBZpY3F7Jd9jLdyiSIaBx1a1mBEGIQDf0ZdZGrSDHU-8oHZjwZXkicFTjupu0GBTUup9T32gVPtm2q_nl3j-CLrxDaLb3YhwU9KkbM82n0XeCEHpn5TbrckBaL7pfIozBSA8WZ3u_6EiP-D7SFagENBclSW-49VdGZ_s5C-bqPhOX3QWFBH5GFSE50NFimT0j7-eazntU0_NnSaUFO3p0pnhTc1czQ1ThSWxtP8IML46yonB4eKOIPwbarxfxVlX43Y.jgG2cHO_tjkLgyW_XKcrxrf3_iWsvX7dpBKLgBWmBhg&dib_tag=se&keywords=go+kart+70+sprocket+and+hub&linkCode=sl2&linkId=b9689f1622b4c660218216785ea93912&qid=1762204619&sprefix=go+kart+70+sprocket+and+hub%2Caps%2C111&sr=8-4
+
+![Screenshot 2025-11-03 at 1.30.26 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODE1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--2c09f1e07a17706a84d733b17c1deb7177abb699/Screenshot%202025-11-03%20at%201.30.26%E2%80%AFPM.png)
+  
+
